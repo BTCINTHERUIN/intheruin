@@ -12,6 +12,7 @@
   <!-- Favicons -->
   <link href="photos/PNG LOGO.png" rel="icon">
   <link href="assets/img/apple-toucn.png" rel="apple-touch-icon">
+  link rel= stylesheet href= styles.css
 
   <!-- Iconos chidos -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
